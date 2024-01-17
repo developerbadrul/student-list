@@ -1,0 +1,26 @@
+{
+    "classOne": [
+      { "name": "Student 1", "avatar": "./assets/avatar1.png", "scores": "A+", "percentage": 95 },
+      { "name": "Student 2", "avatar": "./assets/avatar2.png", "scores": "A", "percentage": 90 },
+      { "name": "Student 3", "avatar": "./assets/avatar3.png", "scores": "B+", "percentage": 85 },
+      { "name": "Student 4", "avatar": "./assets/avatar4.png", "scores": "B", "percentage": 80 },
+      { "name": "Student 5", "avatar": "./assets/avatar5.png", "scores": "A-", "percentage": 88 },
+      { "name": "Student 6", "avatar": "./assets/avatar6.png", "scores": "B+", "percentage": 87 },
+      { "name": "Student 7", "avatar": "./assets/avatar7.png", "scores": "A", "percentage": 92 },
+      { "name": "Student 8", "avatar": "./assets/avatar8.png", "scores": "A-", "percentage": 89 },
+      { "name": "Student 9", "avatar": "./assets/avatar9.png", "scores": "A+", "percentage": 94 },
+      { "name": "Student 10", "avatar": "./assets/avatar10.png", "scores": "A", "percentage": 91 }
+    ],
+    "classTwo": [
+      { "name": "Student 1", "avatar": "./assets/avatar11.png", "scores": "B+", "percentage": 85 },
+      { "name": "Student 2", "avatar": "./assets/avatar12.png", "scores": "B", "percentage": 80 },
+      { "name": "Student 3", "avatar": "./assets/avatar13.png", "scores": "A-", "percentage": 88 },
+      { "name": "Student 4", "avatar": "./assets/avatar14.png", "scores": "B+", "percentage": 87 },
+      { "name": "Student 5", "avatar": "./assets/avatar15.png", "scores": "A", "percentage": 92 },
+      { "name": "Student 6", "avatar": "./assets/avatar16.png", "scores": "A-", "percentage": 89 },
+      { "name": "Student 7", "avatar": "./assets/avatar17.png", "scores": "A+", "percentage": 94 },
+      { "name": "Student 8", "avatar": "./assets/avatar18.png", "scores": "A", "percentage": 91 },
+      { "name": "Student 9", "avatar": "./assets/avatar19.png", "scores": "B+", "percentage": 87 },
+      { "name": "Student 10", "avatar": "./assets/avatar20.png", "scores": "B", "percentage": 80 }
+    ]
+  }
